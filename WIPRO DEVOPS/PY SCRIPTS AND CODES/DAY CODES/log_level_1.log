@@ -1,0 +1,5 @@
+DEBUG:root:This is debug messages
+INFO:root:This is logging info message through info module
+WARNING:root:Warning KEEW KEEW
+ERROR:root:Error ohh GOTCHAA
+CRITICAL:root:KEWW KEWW BOOM
